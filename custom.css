@@ -1,0 +1,53 @@
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color: #0a3a2a;
+ 
+}
+
+.nav.nav-tabs.card-header-tabs {
+    background: #81b69d
+}
+
+a {
+    color: #ffffff;
+}
+
+.h1 {
+    font-size: 6.5 rem;
+}
+
+.nav-link.disabled {
+    color: #495057;
+}
+
+.jumbotron.jumbotron-fluid {
+    background: #CFF0cc;
+}
+
+.btn-primary {
+    background:#137a63;
+    border-color:#137a63;
+}
+
+.pineapple {
+    padding: 100px;
+} 
+
+.blueberries {
+    padding: 50px;
+}
+
+.col-6.col-md-4 {
+    padding: 110px;
+}
+
+.log-in {
+    background: transparent;
+    border: 1px solid #a9a9a9;
+    color: #a9a9a9;
+    padding: 5px;
+    margin: auto;
+}
+
+/* font-family: 'Roboto', sans-serif; */
+
